@@ -7,7 +7,7 @@ Author-Workplace-Name: Department of Economics, University of South Florida
 Title: Financial Exclusion and Inflation Costs
 Abstract: This paper constructs two models of financial exclusion to assess the welfare costs of inflation. In the first, inflation costs are measured within a classical endowment economy. The second includes a production sector and costly credit. Both models are calibrated to account for inflation costs in a high-inflation economy (developing country) and in a low-inflation economy (developed economy). In an endowment economy, when inflation is reduced from 1.5% to zero in a developed economy, the welfare costs for agents with (without) financial access are 0.36% (1.1%) consumption equivalent variation (CEV). In a model with costly credit, the welfare costs for agents with (without) financial access are 0.7% (1.36%) CEV. For developing countries, when inflation is reduced from 6.2% to zero, the welfare costs for agents with (without) financial access are 1.3% (5%) in an endowment economy. In the costly-credit model, the welfare costs for agents with (without) financial access are 0.44% (6%) CEV. The main finding is that there is a substantial asymmetry in welfare costs between individuals with and without access to financial services, especially in developing countries. 
 Creation-Date:  2023-09
-File-URL: https://diogobaerlocher.github.io/files/inflationcosts.pdf
+File-URL: https://diogobaerlocher.github.io/USF-WPSeries/papers/2023-01.pdf
 File-Format: Application/pdf
 Number: 2023-01
 Classification-JEL: D53, E31, E51, G23
@@ -21,21 +21,21 @@ Author-Name-Last: Wilde
 Author-Email:  jkwilde@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
 Title:  How Substitutable are Fixed Factors in Production?  Evidence from Pre-industrial England
-Abstract:  The extent to which fixed factors of production such as land constrain per-capita
+Abstract:  The extent to which fixed factors of production such as land constrain per-capita
 income growth has been a widely discussed topic in economics since at least Malthus
-(1798). Whether fixed factors limit growth depends crucially on two variables: the
-substitutability of fixed factors in production, and the extent to which innovation will
+(1798). Whether fixed factors limit growth depends crucially on two variables: the
+substitutability of fixed factors in production, and the extent to which innovation will
 be biased towards land-saving technologies. However, there are few estimates of either
 variable, and most models assume this elasticity of substitution is unity out of con-
-venience. This paper attempts to fill that gap in the literature. Using the timing of
+venience. This paper attempts to fill that gap in the literature. Using the timing of
 plague epidemics as an instrument for labor supply, this paper estimates the elasticity
-of substitution between fixed and non-fixed factors in pre-industrial England. I find
+of substitution between fixed and non-fixed factors in pre-industrial England. I find
 that the elasticity of substitution between land and other factors during this period
-was signicantly less than one, which implies that the Malthusian effects of population
+was signicantly less than one, which implies that the Malthusian effects of population
 on income were stronger than current models predict. In addition, I am able to esti-
-mate the direction and magnitude of induced innovation. I find evidence that denser
+mate the direction and magnitude of induced innovation. I find evidence that denser
 populations -- and hence higher land scarcity -- induced innovation towards land-saving
-technologies. Specically, I find that a doubling of population density in England from
+technologies. Specically, I find that a doubling of population density in England from
 its year 1500 level raises the difference in the growth rates of land- and labor-enhancing
 productivity by 0.22% per year.
 Length:  53 pages
@@ -72,7 +72,7 @@ Title:  Screening for a Chronic Disease: A Multiple Stage Duration Model with Pa
 Abstract:  This study develops a discrete multiple state duration model for screen-
 ing a chronic disease that allows for duration dependence, unmeasured
 heterogeneity, partial observability of the state and endogenous treat-
-ment. We study whether screening for diabetes is e¤ective in delaying
+ment. We study whether screening for diabetes is eï¿½ective in delaying
 progression of complications of the lower extremities. Our results show
 that early diagnoses of diabetes reduces the probabilities of transitioning
 to a worse disease stage, death or amputation. In particular, decreasing
@@ -108,7 +108,7 @@ Author-Name-First: Benedicte
 Author-Name-Last: Apouey
 Author-Email:  benedicte.apouey@parisschoolofeconomics.eu
 Author-Workplace-Name: Paris School of Economics, CNRS
-Title:  Individuals’ Preventive Behavioral Response to Changes in Malaria Risks and Government Interventions: Evidence from six African countries
+Title:  Individualsï¿½ Preventive Behavioral Response to Changes in Malaria Risks and Government Interventions: Evidence from six African countries
 Abstract:  This paper analyzes the importance of malaria prevalence, malaria ecology, and indoor residual spraying on the probability of sleeping under an insecticide-treated net (ITN) in six African countries. Using individual data on ITN usage combined with the malaria prevalence and ecology data for the area where the person lives, we show that malaria prevalence and ecology have positive effects on ITN usage. However, ITN usage is inelastic with respect to malaria prevalence, with elasticity of 0.181 for children under 5 and of 0.223 for adult women. We also find that indoor residual spraying does not crowd out ITN usage.
 Length:  29 pages
 Creation-Date:  2013-02
@@ -158,7 +158,7 @@ Author-Name-First: Louis
 Author-Name-Last: Eeckhoudt
 Author-Workplace-Name: Ieseg School of Management (Lille)
 Title:  Urban Firm Location and Land Use Under Certainty and Under Product-Price and Land-Rent Risk
-Abstract:  This paper introduces risk into location and land-use choices of a profit-maximizing urban firm. Although risk has been introduced into the location theories of Von Thünen, Weber, and Hotelling (Asami and Isard, 1989), it has not to our knowledge been incorporated into a firm’s choice of intraurban location and land use. We address this issue with a simple model of an urban firm, which chooses location (as distance from the CBD) and land input within an urban area. This model has antecedents in Aloa (1974), Moomaw (1980), and Cooke (1983) but is both simpler (in that it includes only one input, land) and more general (in that it assumes general functional forms and profit maximization). We start with choices under certainty, providing comparative static results on location and land use for changes in product price and land rent. We find location and land use directly related to product price and inversely related to land rent. We then turn to choice of location and land use under product-price and land-rent risk. Both product-price and land-rent risk lead the firm to choose less land and a location closer to the CBD than under certainty. The appendix extends the model to a mean-preserving increase in risk.
+Abstract:  This paper introduces risk into location and land-use choices of a profit-maximizing urban firm. Although risk has been introduced into the location theories of Von Thï¿½nen, Weber, and Hotelling (Asami and Isard, 1989), it has not to our knowledge been incorporated into a firmï¿½s choice of intraurban location and land use. We address this issue with a simple model of an urban firm, which chooses location (as distance from the CBD) and land input within an urban area. This model has antecedents in Aloa (1974), Moomaw (1980), and Cooke (1983) but is both simpler (in that it includes only one input, land) and more general (in that it assumes general functional forms and profit maximization). We start with choices under certainty, providing comparative static results on location and land use for changes in product price and land rent. We find location and land use directly related to product price and inversely related to land rent. We then turn to choice of location and land use under product-price and land-rent risk. Both product-price and land-rent risk lead the firm to choose less land and a location closer to the CBD than under certainty. The appendix extends the model to a mean-preserving increase in risk.
 Length:  10 pages
 Creation-Date:  2013-02
 File-URL: http://economics.usf.edu/PDF/desalvo_urban_firm_location.pdf
@@ -303,7 +303,7 @@ Author-Name-Last: Picone
 Author-Email:  gpicone@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
 Title:  Strategic Clustering and Competition by Alcohol Retailers: An Emperical Anlysis of Entry and Location Decisions
-Abstract: We develop and estimate a spatial game-theoretic model of entry and location choices to examine firms’ strategic clustering decisions. The model identifies two contradictory effects that determine firms’ geographical location choices: a competition effect and a clustering effect. We also separate firms’ strategic clustering incentives from the observed clustering behavior due to exogenous factors such as population and topographic desirability or constraints. In particular, we examine two closely related industries that share similar location limitations but have different strategic incentives to cluster, jointly estimate the Bayesian Nash equilibrium of a two-industry entry and location game, and quantify the strategic clustering incentives.
+Abstract: We develop and estimate a spatial game-theoretic model of entry and location choices to examine firmsï¿½ strategic clustering decisions. The model identifies two contradictory effects that determine firmsï¿½ geographical location choices: a competition effect and a clustering effect. We also separate firmsï¿½ strategic clustering incentives from the observed clustering behavior due to exogenous factors such as population and topographic desirability or constraints. In particular, we examine two closely related industries that share similar location limitations but have different strategic incentives to cluster, jointly estimate the Bayesian Nash equilibrium of a two-industry entry and location game, and quantify the strategic clustering incentives.
 Length:  28 pages
 Creation-Date:  2013-01
 File-URL: http://economics.usf.edu/PDF/alcohol_2013.pdf
@@ -323,7 +323,7 @@ Author-Name-Last: Herander
 Author-Email:  mhernade@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
 Title:  The (Non) Equivalence of Tariff and Quota Policy in the Presence of Search Costs
-Abstract: This study compares the economic effects of tariffs and quotas in an environment where exporters must expend resources to find foreign consumers. Within a sequential search model, we find the policies to be (with rare exceptions) nonequivalent in domestic price. The relative impact of the two policies on domestic prices depends crucially on the magnitude of the two policies with prices more likely to be higher under tariff policy at lower tariff rates. The study adds to the ‘equivalence’ literature by identifying another, and empirically relevant, factor which would result in the breakdown of equivalence between tariff and quota policy.
+Abstract: This study compares the economic effects of tariffs and quotas in an environment where exporters must expend resources to find foreign consumers. Within a sequential search model, we find the policies to be (with rare exceptions) nonequivalent in domestic price. The relative impact of the two policies on domestic prices depends crucially on the magnitude of the two policies with prices more likely to be higher under tariff policy at lower tariff rates. The study adds to the ï¿½equivalenceï¿½ literature by identifying another, and empirically relevant, factor which would result in the breakdown of equivalence between tariff and quota policy.
 Length:  24 pages
 Creation-Date:  2013-03
 File-URL: http://economics.usf.edu/PDF/Herander Equivalence of Tariff.pdf
@@ -343,7 +343,7 @@ Author-Name-Last: Herander
 Author-Email:  mhernade@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
 Title:  The Analytics of Export Promotion Policies Designed to Reduce Search Costs
-Abstract: This study examines the economic effects of export subsidy policy in an environment where exporters must expend resources to find foreign consumers. Within a sequential search model we find that export promotion policies specifically designed to lower an exporter’s search costs (e.g., government-sponsored trade missions) have very different effects than non-targeted subsidies. For example, subsidies that lower search costs induce exporters to increase their price. However, this result is sensitive to model specification and may even be reversed when the analysis allows for foreign competition.
+Abstract: This study examines the economic effects of export subsidy policy in an environment where exporters must expend resources to find foreign consumers. Within a sequential search model we find that export promotion policies specifically designed to lower an exporterï¿½s search costs (e.g., government-sponsored trade missions) have very different effects than non-targeted subsidies. For example, subsidies that lower search costs induce exporters to increase their price. However, this result is sensitive to model specification and may even be reversed when the analysis allows for foreign competition.
 Length:  31 pages
 Creation-Date:  2013-03
 File-URL: http://economics.usf.edu/PDF/Herander Export Promotion Policies.pdf
@@ -392,7 +392,7 @@ Author-Name-Last: Porter
 Author-Email:  pporter@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
 Title:  Asymmetric Information in Wage Negotiations: Hockey's Natural Experiment
-Abstract: This research develops a model of wage negotiation and tests several implications for wages when information asymmetries that favor employers are reduced. The model predicts that given sufficient time to adjust: 1) wages, and labor’s share of the distribution of earnings, will increase; 2) labor’s job performance will become a more important determinant of wages; and 3) the personalities of wage negotiators will become less important. The empirical setting is professional hockey. Beginning in 1989 the National Hockey League Players’ Association began annually to reveal the salaries of all its members. Over the next five seasons as contracts were renegotiated wages rose precipitously. Over the same period the role of player performance in determining wages gained importance while the identity of the team with which they negotiated lost all significance.
+Abstract: This research develops a model of wage negotiation and tests several implications for wages when information asymmetries that favor employers are reduced. The model predicts that given sufficient time to adjust: 1) wages, and laborï¿½s share of the distribution of earnings, will increase; 2) laborï¿½s job performance will become a more important determinant of wages; and 3) the personalities of wage negotiators will become less important. The empirical setting is professional hockey. Beginning in 1989 the National Hockey League Playersï¿½ Association began annually to reveal the salaries of all its members. Over the next five seasons as contracts were renegotiated wages rose precipitously. Over the same period the role of player performance in determining wages gained importance while the identity of the team with which they negotiated lost all significance.
 Length:  31 pages
 Creation-Date:  2013-11
 File-URL: http://economics.usf.edu/PDF/Asymetric Information Porter Kamp.pdf
@@ -463,7 +463,7 @@ Author-Name-Last: Su
 Author-Email: suq1@nku.edu
 Author-Workplace-Name: Department of Marketing, Economics and Sports Business, Northern Kentucky University
 Title:  Another View of Sprawl from Space
-Abstract: Burchfield, et al., “Causes of Sprawl: A Portrait from Space,” Quarterly Journal of Economics, CXXI (2006), 587–633, show that variables chosen from the monocentric model and its generalizations as well as those capturing geographical and political characteristics of urban areas are important in explaining urban sprawl, as measured by an index of the amount of undeveloped land around an average dwelling. Although Burchfield, et al., draw on the urban monocentric model and its extensions, they do not, with one exception, employ the exogenous variables of that model. On the other hand, with one recent exception, urban economists do not use geographical and political characteristics to explain sprawl, defined as the spatial size of the urban area. We were interested, therefore, in seeing if combining these two sets of variables better explains these two measures of sprawl. The main findings of this paper are (1) the standard monocentric model variables fail to contribute to an explanation of the sprawl index, (2) these variables are, however, very important in explaining the spatial size of urban areas, and (3) the Burchfield, et al., variables contribute to an explanation of the spatial size of urban areas. We conclude with a summary and some comments on the role of theory in providing empirically testable hypotheses. We call for efforts to develop a theory comparable to the monocentric model to explain the Burchfield, et al. (2006), measure of sprawl. 
+Abstract: Burchfield, et al., ï¿½Causes of Sprawl: A Portrait from Space,ï¿½ Quarterly Journal of Economics, CXXI (2006), 587ï¿½633, show that variables chosen from the monocentric model and its generalizations as well as those capturing geographical and political characteristics of urban areas are important in explaining urban sprawl, as measured by an index of the amount of undeveloped land around an average dwelling. Although Burchfield, et al., draw on the urban monocentric model and its extensions, they do not, with one exception, employ the exogenous variables of that model. On the other hand, with one recent exception, urban economists do not use geographical and political characteristics to explain sprawl, defined as the spatial size of the urban area. We were interested, therefore, in seeing if combining these two sets of variables better explains these two measures of sprawl. The main findings of this paper are (1) the standard monocentric model variables fail to contribute to an explanation of the sprawl index, (2) these variables are, however, very important in explaining the spatial size of urban areas, and (3) the Burchfield, et al., variables contribute to an explanation of the spatial size of urban areas. We conclude with a summary and some comments on the role of theory in providing empirically testable hypotheses. We call for efforts to develop a theory comparable to the monocentric model to explain the Burchfield, et al. (2006), measure of sprawl. 
 Length:  17 pages
 Creation-Date:  2013-11
 File-URL: http://economics.usf.edu/PDF/Desalvo_4.pdf
@@ -526,8 +526,8 @@ Author-Name-First: Ishani
 Author-Name-Last: Tewari
 Author-Email: ishani.tewari@yale.edu
 Author-Workplace-Name: Yale School of Management
-Title:  Multiproduct Firms, Product Scope and Productivity: Evidence from India’s Product Reservation Policy 
-Abstract: We provide novel evidence showing product scope dynamics within a firm is an important dimension of productivity growth. This channel is identified by leveraging the gradual dismantling of an Indian regulation that “reserved” hundreds of products for manufacture in the small-scale sector. Following the removal of these product market restrictions, product churning and productivity rose. Multiproduct firms who were never in the reserved sector drive this increase, suggesting that the reservation policy constrained their ability to achieve the optimal product mix. Our findings underscore the importance of incorporating heterogeneity at the product-firm level in assessing the impact of size-contingent regulation.
+Title:  Multiproduct Firms, Product Scope and Productivity: Evidence from Indiaï¿½s Product Reservation Policy 
+Abstract: We provide novel evidence showing product scope dynamics within a firm is an important dimension of productivity growth. This channel is identified by leveraging the gradual dismantling of an Indian regulation that ï¿½reservedï¿½ hundreds of products for manufacture in the small-scale sector. Following the removal of these product market restrictions, product churning and productivity rose. Multiproduct firms who were never in the reserved sector drive this increase, suggesting that the reservation policy constrained their ability to achieve the optimal product mix. Our findings underscore the importance of incorporating heterogeneity at the product-firm level in assessing the impact of size-contingent regulation.
 Length:  41 pages
 Creation-Date:  2014-09
 File-URL: http://economics.usf.edu/PDF/Product%20Scope%20and%20Productivity_TewariWilde_Final.pdf
@@ -545,7 +545,7 @@ Author-Name-Last: Jin
 Author-Email: xjin@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
 Title:  The Signaling Role of Not Being Promoted: Theory and Evidence
-Abstract: This article studies the negative signals associated with non-promotion. I first show theoretically that, when workers’ productivity rises little with additional years on the same job level, the negative signal associated with non-promotion leads to wage decreases. On the other hand, when additional job-level tenure leads to a sizable increase in productivity, workers’ wages increase. I test my model’s predictions using the personnel records from a large US firm from 1970-1988. I find a clear hump-shaped wage-job-tenure profile for workers who stay in the same job level, which supports my model’s prediction.
+Abstract: This article studies the negative signals associated with non-promotion. I first show theoretically that, when workersï¿½ productivity rises little with additional years on the same job level, the negative signal associated with non-promotion leads to wage decreases. On the other hand, when additional job-level tenure leads to a sizable increase in productivity, workersï¿½ wages increase. I test my modelï¿½s predictions using the personnel records from a large US firm from 1970-1988. I find a clear hump-shaped wage-job-tenure profile for workers who stay in the same job level, which supports my modelï¿½s prediction.
 Length:  49 pages
 Creation-Date:  2014-09
 File-URL: http://economics.usf.edu/PDF/Signaling-JIN20140909.pdf
@@ -612,8 +612,8 @@ Author-Name-First: Giulia
 Author-Name-Last: La Mattina
 Author-Email: glamattina@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
-Title:  Assisted Reproductive Technology and Women’s Choice to Pursue Professional Careers
-Abstract: We examine the impact of assisted reproductive technology on women’s choice to pursue professional careers. We hypothesize that the availability of assisted reproductive technology increases the expected benefits of a professional degree by allowing women to delay childbearing in their 20s and 30s while establishing their careers, thereby reaping greater financial benefit from human capital investment. We exploit the state and time level variation in the enactment of insurance mandates to cover infertility treatments in employer sponsored health plans, as well as cohort variation in women’s age at the time the laws are passed. These insurance mandates dramatically increase access to assisted reproductive technology. Using a triple-difference strategy, we find that a mandate to cover assisted reproductive technology does increase the probability that a woman chooses to invest in a professional degree and to work in a professional career.
+Title:  Assisted Reproductive Technology and Womenï¿½s Choice to Pursue Professional Careers
+Abstract: We examine the impact of assisted reproductive technology on womenï¿½s choice to pursue professional careers. We hypothesize that the availability of assisted reproductive technology increases the expected benefits of a professional degree by allowing women to delay childbearing in their 20s and 30s while establishing their careers, thereby reaping greater financial benefit from human capital investment. We exploit the state and time level variation in the enactment of insurance mandates to cover infertility treatments in employer sponsored health plans, as well as cohort variation in womenï¿½s age at the time the laws are passed. These insurance mandates dramatically increase access to assisted reproductive technology. Using a triple-difference strategy, we find that a mandate to cover assisted reproductive technology does increase the probability that a woman chooses to invest in a professional degree and to work in a professional career.
 Length:  50 pages
 Creation-Date:  2015-03
 File-URL: http://economics.usf.edu/PDF/Kroeger_La_Mattina_ART_USF_WP_JEL.pdf
@@ -668,8 +668,8 @@ Keywords: Fertility, Family Planning, Economic Growth, Macrosimulation
 Handle: RePEc:usf:wpaper:0315
 
 Template-Type: ReDIF-Paper 1.0
-Author-Name:  Bénédicte H. Apouey
-Author-Name-First: Bénédicte
+Author-Name:  Bï¿½nï¿½dicte H. Apouey
+Author-Name-First: Bï¿½nï¿½dicte
 Author-Name-Last: Apouey
 Author-Email: benedicte.apouey@psemail.eu
 Author-Workplace-Name: Paris School of Economics
@@ -786,7 +786,7 @@ Author-Name-Last: Xu
 Author-Email: xux112@psu.edu
 Author-Workplace-Name: Department of Political Science, Pennsylvania State University
 Title: The Autocratic Root of Social Distrust
-Abstract: This paper presents evidence that autocratic culture adversely affects social trust and civic engagement. Using a measure of individuals’ inherited autocratic culture from their country of origin, we find that individuals whose ancestors migrated from countries with higher autocracy levels are less likely to trust others or to vote in presidential elections in the U.S. The impact of autocratic culture on generalized trust can last for three generations while the impact on voting disappears after one generation. These findings are consistent across the U.S. and Europe and are not driven by selection into migration.
+Abstract: This paper presents evidence that autocratic culture adversely affects social trust and civic engagement. Using a measure of individualsï¿½ inherited autocratic culture from their country of origin, we find that individuals whose ancestors migrated from countries with higher autocracy levels are less likely to trust others or to vote in presidential elections in the U.S. The impact of autocratic culture on generalized trust can last for three generations while the impact on voting disappears after one generation. These findings are consistent across the U.S. and Europe and are not driven by selection into migration.
 Length:  50 pages
 Creation-Date:  2016-11
 File-URL: http://economics.usf.edu/PDF/XuJin2016Nov.pdf
@@ -821,8 +821,8 @@ Author-Name-First: Joshua
 Author-Name-Last: Wilde
 Author-Email: jkwilde@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
-Author-Name:  Bénédicte H. Apouey
-Author-Name-First: Bénédicte
+Author-Name:  Bï¿½nï¿½dicte H. Apouey
+Author-Name-First: Bï¿½nï¿½dicte
 Author-Name-Last: Apouey
 Author-Email: benedicte.apouey@psemail.eu
 Author-Workplace-Name: Paris School of Economics
@@ -861,7 +861,7 @@ Author-Name-Last: Su
 Author-Email: suq1@nku.edu
 Author-Workplace-Name: Department of Marketing, Economics and Sports Business, Northern Kentucky University
 Title:  Determinants of Urban Sprawl: A Panel Data Approach
-Abstract: This paper applies fixed effects (within-groups) and between-groups estimations to panel data to test hypotheses of the monocentric urban model with urbanized area data for the period 1990–2010. The paper examines the impact of population, household income, transportation cost, and land rent at the urban fringe on urbanized area spatial size. The fixed effects regression finds that a 1- percent increase in population and a 1- percent decrease in travel cost causes an urbanized area to expand by 1.087 percent and 0.127 percent, respectively. The impact of household income is non-linear. The regression results from the between-groups estimation indicate that geographic and political factors help explain the spatial size differences across urbanized areas. The spatial size of an urbanized area is larger with a higher percentage of the urban fringe overlying aquifers, a higher percentage of local revenues from intergovernmental transfers, a higher percentage of urban fringe incorporated in 1980, and a lower elevation range in the urban fringe.
+Abstract: This paper applies fixed effects (within-groups) and between-groups estimations to panel data to test hypotheses of the monocentric urban model with urbanized area data for the period 1990ï¿½2010. The paper examines the impact of population, household income, transportation cost, and land rent at the urban fringe on urbanized area spatial size. The fixed effects regression finds that a 1- percent increase in population and a 1- percent decrease in travel cost causes an urbanized area to expand by 1.087 percent and 0.127 percent, respectively. The impact of household income is non-linear. The regression results from the between-groups estimation indicate that geographic and political factors help explain the spatial size differences across urbanized areas. The spatial size of an urbanized area is larger with a higher percentage of the urban fringe overlying aquifers, a higher percentage of local revenues from intergovernmental transfers, a higher percentage of urban fringe incorporated in 1980, and a lower elevation range in the urban fringe.
 Length:  21 pages
 Creation-Date:  2017-06
 File-URL: http://economics.usf.edu/PDF/Desalvo_Su_2017.pdf
