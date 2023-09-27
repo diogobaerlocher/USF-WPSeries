@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Working paper series maintained by the department of economics at the University of South Florida
+Type: ReDIF-Paper
+Provider-Name: University of South Florida, Department of Economics
+Provider-Homepage: https://www.usf.edu/arts-sciences/departments/economics
+Provider-Institution: RePEC:edi:deusfus
+Maintainer-Name: Diogo Baerlocher	
+Maintainer-Email: baerlocher@usf.edu	
+Handle: RePEC:usf:wpaper
