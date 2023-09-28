@@ -1,0 +1,21 @@
+# FIRST AUTHOR:
+Author-Name:  
+Author-Name-First: 
+Author-Name-Last: 
+Author-Email:  
+Author-Workplace-Name: 
+
+# SECOND AUTHOR:
+Author-Name:  
+Author-Name-First: 
+Author-Name-Last: 
+Author-Email:  
+Author-Workplace-Name: 
+
+# REPEAT THE PREVIOUS VARIABLES IF THERE ARE MORE AUTHORS
+
+# PAPER INFORMATION (JEL AND KEYWORDS SEPARATED BY COMMA)
+Title: 
+Abstract: 
+Classification-JEL: 
+Keywords: 
