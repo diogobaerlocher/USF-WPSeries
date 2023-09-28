@@ -3,7 +3,10 @@
 Consists of updating the `.rdf` file in `RePEc/usf/wpaper`. RePEc automatically retrieve information from this file every night. Useful resources:
 
 https://econpapers.repec.org/archiveFAQ.htm#DirStructure
+
 https://econpapers.repec.org/scripts/redifcheck.pl
+
+http://openlib.org/acmes/root/docu/redif_1.html
 
 # Production
 
