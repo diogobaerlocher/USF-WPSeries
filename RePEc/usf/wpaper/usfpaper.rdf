@@ -1,4 +1,48 @@
 Template-Type: ReDIF-Paper 1.0
+Author-Name: Kenneth Whaley
+Author-Name-First: Kenneth
+Author-Name-Last: Whaley
+Author-Email: kennethwhaley@usf.edu
+Author-Workplace-Name: South Florida
+Author-Person: pwh57
+Title: Residential Segregation at Physical Neighborhood Boundaries
+Abstract: Physical boundaries delineate neighborhoods and are distinguishable from administrative boundaries like school districts and county lines. This paper sheds light on historic railroad placement as a predictor of contemporary segregation by employing a digitized map of Texas railroads circa 1911 to compare census block groups separated by train tracks today. Using a boundary discontinuity design, I first document an unconditional house price premium of 21% to live on the high income side of the tracks. Exploiting distinct variation in race and income demographics at railroad boundaries, I obtain hedonic estimates of the price premium for white population share and income composition. Conditional on differences in school quality and access to private consumption amenities, households are willing to pay up to 16% of home price for the race and income composition available on the high income side of the tracks.
+Classification-JEL: R23, J15, O18
+Creation-Date: 2024-02
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2024-02.pdf
+File-Format: Application/pdf
+Number: 2024-02
+Handle: RePEc:usf:wpaper:2024-02
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Patrick J. Bayer
+Author-Name-First: Patrick
+Author-Name-Last: Bayer
+Author-Email: patrick.bayer@duke.edu
+Author-Workplace-Name: Duke
+Author-Person: pba636
+Author-Name: Peter Q. Blair
+Author-Name-First: Peter
+Author-Name-Last: Blair
+Author-Email: peter_blair@gse.harvard.edu
+Author-Workplace-Name: Harvard
+Author-Person: pbl214
+Author-Name: Kenneth Whaley
+Author-Name-First: Kenneth
+Author-Name-Last: Whaley
+Author-Email: kennethwhaley@usf.edu
+Author-Workplace-Name: South Florida
+Author-Person: pwh57
+Title: Does the United States Spend Enough on Public Schools?
+Abstract: The United States ranks low among peer countries on the ratio of teacher spending to per capita GDP. Is this (in)efficient? Using a spatial equilibrium model we show that spending on schools is efficient if an increase in school spending funded through local taxes would leave house prices unchanged. By exploiting plausibly exogenous shocks to both school spending and taxes, paired with 25 years of national data on local house prices, we find that an exogenous tax-funded increase in school spending would significantly raise house prices. These findings provide causal evidence that teacher spending in the U.S. is inefficiently low.
+Classification-JEL: I22, I24, H41
+Creation-Date: 2024-01
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2024-01.pdf
+File-Format: Application/pdf
+Number: 2024-01
+Handle: RePEc:usf:wpaper:2024-01
+
+Template-Type: ReDIF-Paper 1.0
 Author-Name:  Bobby W. Chung
 Author-Name-First: Bobby W.
 Author-Name-Last: Chung
@@ -68,6 +112,7 @@ Author-Name-First: Diogo
 Author-Name-Last: Baerlocher
 Author-Email:  baerlocher@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
+Author-Person: pba1528
 Title: Financial Exclusion and Inflation Costs
 Abstract: This paper constructs two models of financial exclusion to assess the welfare costs of inflation. In the first, inflation costs are measured within a classical endowment economy. The second includes a production sector and costly credit. Both models are calibrated to account for inflation costs in a high-inflation economy (developing country) and in a low-inflation economy (developed economy). In an endowment economy, when inflation is reduced from 1.5% to zero in a developed economy, the welfare costs for agents with (without) financial access are 0.36% (1.1%) consumption equivalent variation (CEV). In a model with costly credit, the welfare costs for agents with (without) financial access are 0.7% (1.36%) CEV. For developing countries, when inflation is reduced from 6.2% to zero, the welfare costs for agents with (without) financial access are 1.3% (5%) in an endowment economy. In the costly-credit model, the welfare costs for agents with (without) financial access are 0.44% (6%) CEV. The main finding is that there is a substantial asymmetry in welfare costs between individuals with and without access to financial services, especially in developing countries. 
 Creation-Date:  2023-09

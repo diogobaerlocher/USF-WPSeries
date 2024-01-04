@@ -1,9 +1,10 @@
 # FIRST AUTHOR:
-Author-Name:  
-Author-Name-First: 
-Author-Name-Last: 
-Author-Email:  
-Author-Workplace-Name: 
+Author-Name: Adam Smith  
+Author-Name-First: Adam
+Author-Name-Last: Smith
+Author-Email: adam-smith@econ.edu
+Author-Workplace-Name: University of Glasgow
+Author-Person: psm1 ### (THIS IS THE AUTHOR RePEC SHORT ID. DELETE LINE IF YOU DON'T HAVE ONE)
 
 # SECOND AUTHOR:
 Author-Name:  
@@ -11,6 +12,7 @@ Author-Name-First:
 Author-Name-Last: 
 Author-Email:  
 Author-Workplace-Name: 
+Author-Person:
 
 # REPEAT THE PREVIOUS VARIABLES IF THERE ARE MORE AUTHORS
 
