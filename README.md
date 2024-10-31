@@ -10,7 +10,7 @@ http://openlib.org/acmes/root/docu/redif_1.html
 
 # Production
 
-When receiving a paper for inclusion in the repository, populate the template in `production` then copy and paste the data into the `usfpaper.rdf` file. 
+When receiving a paper for inclusion in the repository, populate the template in `production` then copy and paste the data into the `RePEc\usf\usfpaper.rdf` file. 
 
 Save the `.pdf` file as `submission.pdf` in the production folder. Edit the `1_create_frontpage.tex` file and then run it. Then, run `2_merge_frontpage.py` to create the production output. Make sure to activate the environment before doing so:
 
