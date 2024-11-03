@@ -1,25 +1,28 @@
 Template-Type: ReDIF-Paper 1.0
-Author-Name: Ben Posmanick
-Author-Name-First: Ben
-Author-Name-Last: Posmanick
-Author-Email: bposmani@sbu.edu
-Author-Workplace-Name: St Bonaventure University
-Author-Name: Alex Obie
-Author-Name-First: Alex
-Author-Name-Last: Obie
-Author-Email: obieaj19@bonaventure.edu
-Author-Workplace-Name: St Bonaventure University
-Author-Name: Bobby Chung
-Author-Name-First: Bobby
-Author-Name-Last: Chung
-Author-Email: bobbywchung@usf.edu
-Author-Workplace-Name: USF
-Title: Licensed Professionals and Corporate Board Performance: The Effect of the Sarbanes-Oxley Act on the Audit Committee
-Abstract: We study the substitution between licensed and unlicensed workers and the quality effect of employing licensed professionals on firms. Leveraging a quasi-licensure mandate of the Sarbanes-Oxley Act (SOX) on audit committees of publicly-traded firms, this paper studies the employment spillover and quality effects of licensing at the firm level. Assembling multiple data sources, we identify independent directors with relevant licenses and the quality of accounting reports for more than 5,200 publicly-traded firms. Exploiting plausibly exogenous year-by-firm variation in fixed-effect models, the licensure mandate of SOX significantly increases the appointment of certified public accountants (CPAs) at the expense of other types of professionals at the board level. We find a precise zero effect for the presence of CPAs on audit committees on the need to refile financial statements.
-Classification-JEL: J44, G38, K10
-Keywords: Occupational Licensing, Employment Spillover, Quality, Sarbanes-Oxley
-Creation-Date: 2024-04
-File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2024-03.pdf
+Author-Name: Diogo Baerlocher
+Author-Name-First: Diogo
+Author-Name-Last: Baerlocher
+Author-Email: baerlocher@usf.edu
+Author-Workplace-Name: University of South Florida
+Author-Person: pba1528
+Author-Name: Gustavo Cortes
+Author-Name-First: Gustavo
+Author-Name-Last: Cortes
+Author-Email: gustavo.cortes@warrington.ufl.edu
+Author-Workplace-Name: Warrington College of Business, University of Florida
+Author-Person: pco618
+Author-Name: Vinicios Sant'Anna
+Author-Name-First: Vinicios
+Author-Name-Last: Sant'Anna
+Author-Email: vsantann@mit.edu
+Author-Workplace-Name: MIT
+Author-Person: psa1671
+Title: Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles
+Abstract: When natural disasters strike, the impact on housing markets can be far-reaching. This paper explores the unique dynamics of natural disaster-induced migration on the housing market, focusing on the 1930s Dust Bowl migration to Los Angeles---the top migrant destination. We use U.S. Census-linked and geocoded address data to document that the arrival of Dust Bowl migrants significantly impacted the city's housing market. We show that houses inhabited by Dust Bowl migrants had lower price growth over the decade. Critically, we uncover valuation spillovers within highly granular neighborhoods, where houses inhabited by non-migrants experienced lower price growth modulated by how close they were to Dust Bowl migrants. Our analysis of potential mechanisms suggests that these effects were primarily driven by the economic vulnerability of migrants rather than generalized discrimination. Our research contributes to understanding how natural disaster-induced migration shapes housing markets and the dimensions in which climate refugees differ from other migrants.
+Classification-JEL: R21, R23, R31, Q54
+Keywords: Real Estate, Housing, Immigration, Disaster-induced displacement
+Creation-Date: 2024-11
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2024-05.pdf
 File-Format: Application/pdf
-Number: 2024-03
-Handle: RePEc:usf:wpaper:2024-03
+Number: 2024-05
+Handle: RePEc:usf:wpaper:2024-05
