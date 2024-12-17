@@ -1,4 +1,33 @@
 Template-Type: ReDIF-Paper 1.0
+Author-Name: Bernard M.S. van Praag
+Author-Name-First: Bernard 
+Author-Name-Last: van Praag
+Author-Email: b.m.s.vanpraag@uva.nl
+Author-Workplace-Name: University of Amsterdam
+Author-Person: pva16
+Author-Name: J. Peter Hop
+Author-Name-First: Peter
+Author-Name-Last: Hop
+Author-Email: 
+Author-Workplace-Name: Independent
+Author-Person: 
+Author-Name: William H. Greene
+Author-Name-First: William
+Author-Name-Last: Greene
+Author-Email: greenew@usf.edu
+Author-Workplace-Name: University of South Florida
+Author-Person: pgr81
+Title: Estimation of Linear Models from Coarsened Observations: A Method of Moments Approach
+Abstract: In the last few decades, the study of ordinal data in which the variable of interest is not exactly observed but only known to be in a specific ordinal category has become important. In Psychometrics such variables are analysed under the heading of item response models (IRM). In Econometrics, subjective well-being (SWB) and self-assessed health (SAH) studies, and in Marketing Research, Ordered Probit, Ordered Logit, and Interval Regression models are common research platforms. To emphasize that the problem is not specific to a specific discipline we will use the neutral term coarsened observation. For single-equation models estimation of the latent linear model by Maximum Likelihood (ML) is routine. But, for higher -dimensional multivariate models it is computationally cumbersome as estimation requires the evaluation of multivariate normal distribution functions on a large scale. Our proposed alternative estimation method, based on the Generalized Method of Moments (GMM), circumvents this multivariate integration problem. The method is based on the assumed zero correlations between explanatory variables and generalized residuals. This is more general than ML but coincides with ML if the error distribution is multivariate normal. It can be implemented by repeated application of standard techniques. GMM provides a simpler and faster approach than the usual ML approach. It is applicable to multiple equation models with K-dimensional error correlation matrices and kJ response categories for the the kth equation. It also yields a simple method to estimate polyserial and polychoric correlations. Comparison of our method with the outcomes of the Stata ML procedure cmp yields estimates that are not statistically different, while estimation by our method requires only a fraction of the computing time.
+Classification-JEL: C13, C15, C24, C25, C26, C33, C34, C35, C361
+Keywords: ordered qualitative data, item response models, multivariate ordered probit, ordinal data analysis, generalized method of moments, polychoric correlations, coarsened events
+Creation-Date: 2024-12
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2024-06.pdf
+File-Format: Application/pdf
+Number: 2024-06
+Handle: RePEc:usf:wpaper:2024-06
+
+Template-Type: ReDIF-Paper 1.0
 Author-Name: Diogo Baerlocher
 Author-Name-First: Diogo
 Author-Name-Last: Baerlocher
