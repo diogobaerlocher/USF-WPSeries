@@ -15,7 +15,7 @@ jobs:
           FOLDER: .  # Directory to generate index
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           name: github-pages  # Explicit artifact name
           path: '.'  # Ensure this matches where files are generated
