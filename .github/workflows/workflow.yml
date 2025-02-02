@@ -15,7 +15,7 @@ jobs:
           FOLDER: .  # Directory to generate index
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4  # Update to v4
         with:
           name: github-pages  # Explicit artifact name
           path: '.'  # Ensure this matches where files are generated
@@ -37,6 +37,6 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4  # Update to v4
         with:
           artifact_name: github-pages
