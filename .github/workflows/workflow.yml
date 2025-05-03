@@ -7,34 +7,36 @@ jobs:
     name: Directory Listings Index
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-        # with:
-        #   ref: dummy-data    #checkout different branch
+        uses: actions/checkout@v4
 
       - name: Generate Directory Listings
-        uses: jayanta525/github-pages-directory-listing@v3.0.0
+        uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
-          FOLDER: .      #directory to generate index
+          FOLDER: .  # Directory to generate index
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3  # Update to v4
         with:
-          path: '.'      # upload generated folder
-  
+          name: github-pages  # Explicit artifact name
+          path: '.'  # Ensure this matches where files are generated
+
   deploy:
     needs: pages-directory-listing
     permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
+      pages: write
+      id-token: write
 
-    # Deploy to the github-pages environment
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
-    # Specify runner + deployment step
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4  # Update to v4
+        with:
+          artifact_name: github-pages
