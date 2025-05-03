@@ -1,28 +1,20 @@
 Template-Type: ReDIF-Paper 1.0
-Author-Name: Diogo Baerlocher
-Author-Name-First: Diogo
-Author-Name-Last: Baerlocher
-Author-Email: baerlocher@usf.edu
+Author-Name:  Bobby W. Chung 
+Author-Name-First: Bobby W. 
+Author-Name-Last: Chung 
+Author-Email:  bobbywchung@usf.edu 
 Author-Workplace-Name: University of South Florida
-Author-Person: pba1528
-Author-Name: Gustavo Cortes
-Author-Name-First: Gustavo
-Author-Name-Last: Cortes
-Author-Email: gustavo.cortes@warrington.ufl.edu
-Author-Workplace-Name: Warrington College of Business, University of Florida
-Author-Person: pco618
-Author-Name: Vinicios Sant'Anna
-Author-Name-First: Vinicios
-Author-Name-Last: Sant'Anna
-Author-Email: vsantann@mit.edu
-Author-Workplace-Name: MIT
-Author-Person: psa1671
-Title: Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles
-Abstract: When natural disasters strike, the impact on housing markets can be far-reaching. This paper explores the unique dynamics of natural disaster-induced migration on the housing market, focusing on the 1930s Dust Bowl migration to Los Angeles---the top migrant destination. We use U.S. Census-linked and geocoded address data to document that the arrival of Dust Bowl migrants significantly impacted the city's housing market. We show that houses inhabited by Dust Bowl migrants had lower price growth over the decade. Critically, we uncover valuation spillovers within highly granular neighborhoods, where houses inhabited by non-migrants experienced lower price growth modulated by how close they were to Dust Bowl migrants. Our analysis of potential mechanisms suggests that these effects were primarily driven by the economic vulnerability of migrants rather than generalized discrimination. Our research contributes to understanding how natural disaster-induced migration shapes housing markets and the dimensions in which climate refugees differ from other migrants.
-Classification-JEL: R21, R23, R31, Q54
-Keywords: Real Estate, Housing, Immigration, Disaster-induced displacement
-Creation-Date: 2024-11
-File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2024-05.pdf
+Author-Name: Roksana Ghanbariamin 
+Author-Name-First: Roksana
+Author-Name-Last: Ghanbariamin
+Author-Email:  Roksana.Ghanbariamin@analysisgroup.com
+Author-Workplace-Name: Analysis Group
+Title: Participation Spillover of the National Kidney Registry
+Abstract: This paper provides the first empirical evidence on hospital participation spillover of the National Kidney Registry (NKR), the largest kidney-exchange network in the United States. We use a unique dataset from the Scientific Registry of Transplant Recipients to define links between hospitals based on the presence of common surgeons. We find that a hospital with one more NKR connection in the last period is 1.2 to 1.5 times more likely than its no-NKR counterparts to join the NKR. The spillover concentrates among strong connections, measured by the type and the number of common surgeons. In light of the current fragmented kidney-exchange market, our finding sheds light on reducing information friction to promote new participation.
+Classification-JEL: I11, L14
+Keywords: Kidney-exchange networks, National Kidney Registry (NKR), Spillover effects
+Creation-Date: 2025-04
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-02.pdf
 File-Format: Application/pdf
-Number: 2024-05
-Handle: RePEc:usf:wpaper:2024-05
+Number: 2025-02
+Handle: RePEc:usf:wpaper:2025-02
