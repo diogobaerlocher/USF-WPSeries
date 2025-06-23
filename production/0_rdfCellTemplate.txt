@@ -14,7 +14,7 @@ Abstract: This paper provides the first empirical evidence on hospital participa
 Classification-JEL: I11, L14
 Keywords: Kidney-exchange networks, National Kidney Registry (NKR), Spillover effects
 Creation-Date: 2025-04
-File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-02.pdf
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-03.pdf
 File-Format: Application/pdf
 Number: 2025-02
 Handle: RePEc:usf:wpaper:2025-02
