@@ -1,20 +1,20 @@
 Template-Type: ReDIF-Paper 1.0
-Author-Name:  Bobby W. Chung 
-Author-Name-First: Bobby W. 
-Author-Name-Last: Chung 
-Author-Email:  bobbywchung@usf.edu 
-Author-Workplace-Name: University of South Florida
-Author-Name: Roksana Ghanbariamin 
-Author-Name-First: Roksana
-Author-Name-Last: Ghanbariamin
-Author-Email:  Roksana.Ghanbariamin@analysisgroup.com
-Author-Workplace-Name: Analysis Group
-Title: Participation Spillover of the National Kidney Registry
-Abstract: This paper provides the first empirical evidence on hospital participation spillover of the National Kidney Registry (NKR), the largest kidney-exchange network in the United States. We use a unique dataset from the Scientific Registry of Transplant Recipients to define links between hospitals based on the presence of common surgeons. We find that a hospital with one more NKR connection in the last period is 1.2 to 1.5 times more likely than its no-NKR counterparts to join the NKR. The spillover concentrates among strong connections, measured by the type and the number of common surgeons. In light of the current fragmented kidney-exchange market, our finding sheds light on reducing information friction to promote new participation.
-Classification-JEL: I11, L14
-Keywords: Kidney-exchange networks, National Kidney Registry (NKR), Spillover effects
+Author-Name:  Diogo Baerlocher
+Author-Name-First: Diogo
+Author-Name-Last: Baerlocher
+Author-Email:  baerlocher@usf.edu
+Author-Workplace-Name: Department of Economics, University of South Florida
+Author-Name:  Diogo Baerlocher
+Author-Name-First: Rodrigo
+Author-Name-Last: Schneider
+Author-Email: rschnei2@skidmore.edu
+Author-Workplace-Name: Department of Economics, Skidmore College
+Title: Racial Self-Classification, Group Consciousness, and Public Employment Representation
+Abstract: This paper examines how racial identity misrepresentation influences public sector hiring in Brazil. We focus on misaligned white candidates — those who self-identify as white but are unlikely to be classified as such by facial recognition — and exploit close electoral races using a regression discontinuity design. Narrow victories by these candidates reduce the share of nonwhite hires in municipal legislative offices by approximately 20%, with effects concentrated in temporary and managerial positions. We also find a significant decline in nonwhite leadership in municipal secretariats. These results indicate that misaligned whiteness shapes racial representation through political and bureaucratic channels.
+Classification-JEL: J15, D63, H83
+Keywords: Racial classification, Political representation, Phenotypic discrimination, Public employment
 Creation-Date: 2025-04
-File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-03.pdf
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-04.pdf
 File-Format: Application/pdf
-Number: 2025-02
-Handle: RePEc:usf:wpaper:2025-02
+Number: 2025-04
+Handle: RePEc:usf:wpaper:2025-04
