@@ -4,6 +4,32 @@ Author-Name-First: Diogo
 Author-Name-Last: Baerlocher
 Author-Email:  baerlocher@usf.edu
 Author-Workplace-Name: Department of Economics, University of South Florida
+Author-Name:  Renata Caldas
+Author-Name-First: Renata
+Author-Name-Last: Caldas
+Author-Email:  renatad@usf.edu
+Author-Workplace-Name: Department of Economics, University of South Florida
+Author-Name: Francisco Cavalcanti
+Author-Name-First: Francisco
+Author-Name-Last: Cavalcanti
+Author-Email: francisco.dlcavalcanti@ufpe.br
+Author-Workplace-Name: Department of Economics, Universidade Federal de Pernambuco
+Title: Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil
+Abstract: Racial identity is not solely a matter of physical appearance but is also shaped by social and historical context. Using data on over 500,000 candidates for local office in Brazil’s 2020 elections, we study how self-reported race - specifically, identification as white - relates to phenotypic appearance, socioeconomic characteristics, and local social perceptions. We use machine learning to extract appearance-based probabilities of racial classification from candidate photographs and show that these probabilities explain a significant share of variation in self-reported race. Socioeconomic factors such as education, gender, and wealth also influence racial identification, though their effects diminish among individuals whose appearance more clearly aligns with the white category. Municipality fixed effects, which we interpret as capturing local social perception bias, vary systematically across regions and are strongly associated with historical slave population shares. We further show that areas with state-sponsored European settlements - often associated with more inclusive institutions - exhibit lower rates of white self-identification, contrasting with the positive association between slavery intensity and white identification. Our findings highlight the enduring role of social and historical forces in shaping racial classification and suggest that racial inequality cannot be fully understood without accounting for the social construction of race.
+Classification-JEL: J15, N36, Z13
+Keywords: Racial Classification, Social Identity, Phenotypic Appearance, Historical Legacy
+Creation-Date: 2026-01
+File-URL: https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2026-01.pdf
+File-Format: Application/pdf
+Number: 2026-01
+Handle: RePEc:usf:wpaper:2026-01
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Diogo Baerlocher
+Author-Name-First: Diogo
+Author-Name-Last: Baerlocher
+Author-Email:  baerlocher@usf.edu
+Author-Workplace-Name: Department of Economics, University of South Florida
 Author-Person: pba1528
 Author-Name: Rodrigo Schneider
 Author-Name-First: Rodrigo
