@@ -25,10 +25,12 @@ The workflow to add a new working paper:
 2. **Create ReDIF entry** — Use `production/0_rdfCellTemplate.txt` as a template. Fill in author fields, title, abstract, JEL codes, keywords, `Creation-Date` (YYYY-MM), `Number` (YYYY-NN), `File-URL`, and `Handle`. Prepend the completed block to `RePEc/usf/wpaper/usfpaper.rdf`.
 3. **Save submitted PDF** as `production/submission.pdf`.
 4. **Edit the front page** — Update `production/1_create_frontpage.tex` with the paper number, title, abstract, authors + affiliations, and availability date. Then compile with pdfLaTeX.
-5. **Merge PDFs** — Activate the conda environment and run the merge script:
+5. **Merge PDFs** — Run the merge script through the project's virtual environment:
    ```
-   conda activate .conda/
-   python production/2_merge_frontpage.py
+   # macOS / Linux
+   .venv/bin/python production/2_merge_frontpage.py
+   # Windows
+   .venv\Scripts\python production\2_merge_frontpage.py
    ```
    This produces `production/production_output.pdf`.
 6. **Rename and distribute** — Rename `production_output.pdf` to `YYYY-NN.pdf`, copy to `papers_backup/`, and upload to the USF economics website at `https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/YYYY-NN.pdf`.
@@ -36,6 +38,27 @@ The workflow to add a new working paper:
 ## Naming Convention
 
 Papers are numbered `YYYY-NN` where `YYYY` is the year and `NN` is a zero-padded sequential number within that year. The next number is determined by counting existing papers for the current year in `usfpaper.rdf` or `papers_backup/`.
+
+## Copyright Block on the Front Page
+
+The front page (`production/1_create_frontpage.tex`) has two variants of the bottom copyright block. Pick the one that matches the paper's publication status:
+
+1. **Pre-print / initial release** — Default "All rights reserved" notice:
+   ```latex
+   \noindent \small ©The authors listed. All rights reserved. No part of this paper may be reproduced in any form, or stored in a retrieval system, without the prior written permission of the authors.
+   ```
+
+2. **Accepted-manuscript update** — When re-releasing the WP as the accepted version of a published article, switch to the CC BY-NC-ND 4.0 notice with journal citation and DOI. Requires `\usepackage{url}` (or `hyperref`) in the preamble:
+   ```latex
+   {\small
+   \textcopyright{} The authors listed. This is the accepted manuscript version of an article accepted for publication
+   in the \emph{Journal Name}. The version of record is available at
+   \url{https://doi.org/<DOI>}. This work is licensed under a Creative Commons
+   Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+   \url{https://creativecommons.org/licenses/by-nc-nd/4.0/}
+   }
+   ```
+   When using variant 2, also update the front page's "Updated: MONTH YEAR" line and add a matching `Revision-Date: YYYY-MM` to the paper's ReDIF block in `usfpaper.rdf`.
 
 ## ReDIF Format Notes
 
@@ -51,12 +74,12 @@ Papers are numbered `YYYY-NN` where `YYYY` is the year and `NN` is a zero-padded
 # Compile front page (from repo root)
 cd production && pdflatex 1_create_frontpage.tex && cd ..
 
-# Merge front page with submission
-conda activate .conda/
-python production/2_merge_frontpage.py
+# Merge front page with submission (uses the project's venv)
+.venv/bin/python production/2_merge_frontpage.py        # macOS / Linux
+.venv\Scripts\python production\2_merge_frontpage.py    # Windows
 ```
 
 ## Dependencies
 
-- **LaTeX**: pdfLaTeX with `graphicx`, `geometry`, `setspace`, `pdfpages`, `xcolor` packages
-- **Python**: conda environment in `.conda/` with `PyPDF2`
+- **LaTeX**: pdfLaTeX with `graphicx`, `geometry`, `setspace`, `pdfpages`, `xcolor`, `url` packages (install missing ones via `tlmgr install <pkg>`)
+- **Python**: virtual environment in `.venv/` with `PyPDF2`. Create with `python3 -m venv .venv && .venv/bin/pip install PyPDF2` (macOS/Linux) or `py -m venv .venv && .venv\Scripts\pip install PyPDF2` (Windows). The `.venv/` folder is platform-specific — recreate it on each machine rather than syncing across Box.

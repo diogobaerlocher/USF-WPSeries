@@ -1,3 +1,4 @@
-.conda/ 
+.conda/
+.venv/
 .github/
 .DS_Store

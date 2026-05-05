@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.23)  26 MAR 2026 13:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.14)  24 APR 2026 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**1_create_frontpage.tex
-(./1_create_frontpage.tex
+**production/1_create_frontpage.tex
+(./production/1_create_frontpage.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+L3 programming layer <2026-03-20>
 (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -21,7 +21,7 @@ File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen148
+\bibindent=\dimen150
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
@@ -38,8 +38,8 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen149
-\Gin@req@width=\dimen150
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -50,27 +50,27 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@cnth=\count283
 \Gm@cntv=\count284
 \c@Gm@tempcnt=\count285
-\Gm@bindingoffset=\dimen151
-\Gm@wd@mp=\dimen152
-\Gm@odd@mp=\dimen153
-\Gm@even@mp=\dimen154
-\Gm@layoutwidth=\dimen155
-\Gm@layoutheight=\dimen156
-\Gm@layouthoffset=\dimen157
-\Gm@layoutvoffset=\dimen158
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks18
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count286
 \calc@Bcount=\count287
-\calc@Adimen=\dimen159
-\calc@Bdimen=\dimen160
+\calc@Adimen=\dimen161
+\calc@Bdimen=\dimen162
 \calc@Askip=\skip51
 \calc@Bskip=\skip52
 LaTeX Info: Redefining \setlength on input line 86.
@@ -79,8 +79,8 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Cskip=\skip53
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
-\ESO@tempdima=\dimen161
-\ESO@tempdimb=\dimen162
+\ESO@tempdima=\dimen163
+\ESO@tempdimb=\dimen164
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -101,11 +101,11 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count289
 )
-\AM@pagewidth=\dimen163
-\AM@pageheight=\dimen164
-\AM@fboxrule=\dimen165
+\AM@pagewidth=\dimen165
+\AM@pageheight=\dimen166
+\AM@fboxrule=\dimen167
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+File: pppdftex.def 2026/03/30 v0.6h Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count290
 \AM@pagebox=\box53
@@ -115,13 +115,15 @@ File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks21
 \c@AM@survey=\count292
 \AM@templatesizebox=\box54
+) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
-)
-No file 1_create_frontpage.aux.
+) (production/1_create_frontpage.aux)
 \openout1 = `1_create_frontpage.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -138,7 +140,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-(/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+ (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (/Users/diogobaerlocher/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
@@ -228,32 +230,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
-
- []
-
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 50.
 [1
 
-{/Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./USouthFlorida-lightbg-2c-rgb-h.png>] (./1_create_frontpage.aux)
+{/Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <production/USouthFlorida-lightbg-2c-rgb-h.png>] (production/1_create_frontpage.aux)
  ***********
 LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+L3 programming layer <2026-03-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4022 strings out of 469472
- 66123 string characters out of 5466868
- 480451 words of memory out of 5000000
- 32642 multiletter control sequences out of 15000+600000
- 632982 words of font info for 48 fonts, out of 8000000 for 9000
+ 4144 strings out of 469296
+ 67976 string characters out of 5463521
+ 485541 words of memory out of 5000000
+ 32930 multiletter control sequences out of 15000+600000
+ 634938 words of font info for 51 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 68i,5n,90p,1039b,128s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1000.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2074.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk>
-Output written on 1_create_frontpage.pdf (1 page, 126375 bytes).
+ 68i,5n,90p,1199b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1000.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1000.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1095.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2074.600pk> </Users/diogobaerlocher/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk>
+Output written on production/1_create_frontpage.pdf (1 page, 146317 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 259 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
