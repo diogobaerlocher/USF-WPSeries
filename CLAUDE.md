@@ -79,6 +79,10 @@ cd production && pdflatex 1_create_frontpage.tex && cd ..
 .venv\Scripts\python production\2_merge_frontpage.py    # Windows
 ```
 
+## Commit Conventions
+
+Do not add Claude as a co-author on commits. No `Co-Authored-By: Claude ...` trailer, no "Generated with Claude Code" line in the message body.
+
 ## Dependencies
 
 - **LaTeX**: pdfLaTeX with `graphicx`, `geometry`, `setspace`, `pdfpages`, `xcolor`, `url` packages (install missing ones via `tlmgr install <pkg>`)
